@@ -1,0 +1,26 @@
+.vscode
+*.sldprt
+*.sldasm
+*.pdf
+
+# Build and temporary outputs
+Firmware/build/
+Firmware/tmp/
+**/.history/
+
+# Compiled artifacts
+*.bin
+*.elf
+*.exe
+*.hex
+*.map
+*.obj
+*.o
+*.pdb
+*.su
+
+# CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
