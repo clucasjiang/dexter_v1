@@ -4,7 +4,7 @@ Dexter is a six-degree-of-freedom robotic arm with a force-controlled gripper, a
 
 I designed, built, assembled, programmed, and tested Dexter independently. The stepper-driven arm and the firmware in this repository are the completed, tested first version of an ongoing robotics project. I am now developing a second version with BLDC motors to improve motion quality, control performance, and overall results.
 
-**Core technologies:** KiCad · STM32H562 / Arm Cortex-M33 · C11 · RS485 · PID control · Motor current feedback · CMake
+**Core technologies:** KiCad · STM32H562 · Embedded C · RS485 · PID control · Motor current feedback
 
 ## Demonstrations
 
